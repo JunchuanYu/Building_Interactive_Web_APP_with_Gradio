@@ -1,8 +1,12 @@
-![Gradio](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Gradio_main.png)
+---
+title: "Building Interactive Web Apps with Gradio"
+subtitle: "A Open-source Python Course: From Beginner to Advanced (2024)"
+---
+
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Gradio_main.png)
 <br><br>
 
-
-# Building Interactive Web Apps with Gradio
+# Introduction
 
 This open-source Python tutorial will guide you in quickly building demos or web applications with Gradio. You'll start by setting up your Python environment and end with deploying interactive apps. Learn to make interfaces for text and images, improve the user experience with layout customization, and manage complex interactions.
 
@@ -10,7 +14,8 @@ The course will also cover processing remote sensing data with Gradio and GDAL f
 
 Designed to equip you with the skills to integrate machine learning models and deploy your apps on Hugging Face Spaces, the course includes practical examples, demos, and assignments. By completing the tutorial, you'll be able to build, deploy, and share interactive web applications confidently and efficiently.
 
-![intro](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/intro.gif)
+
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/intro.gif)
 <br><br>
 
 ### Comprehensive Installation Guide
@@ -67,54 +72,58 @@ This tutorial is structured into six sections, with each section offering hands-
 #### 1. Introduction to Gradio
 ##### Demo 1-1: Build Your First Gradio App
 
-![demo1-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo1-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo1-1.gif)
 
 ##### DEMO 1-2: Display an Image
 
-![demo1-2](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo1-2.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo1-2.gif)
 
 #### 2. Interface Design and Interactive Components
 ##### DEMO 2-1: Interactive Multi-Component Gradio Interface
 
-![demo2-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo2-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo2-1.gif)
 
 ##### DEMO 2-2: Diverse Data Display and File Interaction App
 
-![demo2-2](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo2-2.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo2-2.gif)
 
 #### 3. Working with Remote Sensing Data
 ##### DEMO 3-1: Remote Sensing Imagery Visulization
 
-![demo3-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-1.gif)
 ##### DEMO 3-2: Geospatial Coordinate Conversion and Shapefile Generator App
 
-![demo3-2](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-2.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-2.gif)
 
 ##### DEMO 3-3: DEM Visualization and Slope Analysis App
 
-![demo3-3](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-3.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-3.gif)
 
 #### 4. Application of Machine Learning Models
 ##### DEMO 4-1: Handwritten Digit Recognition App
 
-![demo4-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo4-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo4-1.gif)
 
 ##### DEMO 4-2: ChatBot App Building with Gradio and Kimi
 
-![demo4-2](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo4-2.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo4-2.gif)
 
 #### 5. Building Interactive Maps Using Gradio and Folium.
 ##### DEMO 5-1: Interactive Map Generation Using Gradio and Leafmap
 
-![demo5-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo5-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo5-1.gif)
 
 ##### DEMO 5-2: Geospatial COG and TIFF Viewer App
 
-![demo5-2](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo5-2.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo5-2.gif)
 
 #### 6. Deploy and Share Your Gradio App
 ##### DEMO 6-1: Deploying a Gradio App on Hugging Face 
 
-![demo6-1](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo6-1.gif)
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo6-1.gif)
 
 To learn more about sharing your demo, read our dedicated guide on [sharing your Gradio application](https://www.gradio.app/guides/sharing-your-app).<br><br>
+
+
+
+

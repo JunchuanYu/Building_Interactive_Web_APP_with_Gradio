@@ -1,0 +1,110 @@
+project:
+  type: website
+  output-dir: docs
+
+
+execute:
+  freeze: auto
+
+website:
+  page-navigation: true  
+  title: "Building Interactive Web Apps with Gradio——Junchuan Yu (2024)"
+  favicon: "web_file/favicon.ico"
+  site-url: https://github.com/JunchuanYu/Building_Interactive_Web_APP_with_Gradio
+  repo-url: https://github.com/JunchuanYu/Building_Interactive_Web_APP_with_Gradio
+  repo-actions: [issue,source]
+
+  sidebar:
+    logo: https://dunazo.oss-cn-beijing.aliyuncs.com/blog/Gradio_main.png?raw=true
+    pinned: true
+    align: center
+    
+    style: "docked"
+    collapse-level: 1
+    toc-expand: false
+    contents: 
+      - section: "1 Introduction"
+        contents:
+        - text: Intro
+          href: index.qmd
+      - section: "2 Introduction to Gradio"
+        contents:
+        - text: 2.1 Hello World
+          href: DEMO1-1.ipynb
+        - text: 2.2 Display an Image
+          href: DEMO1-2.ipynb
+      - section: "3 Interface Design"
+        contents:
+        - text: 3.1 Interface and Components
+          href: DEMO2-1.ipynb
+        - text: 3.2 File Interaction
+          href: DEMO2-2.ipynb
+      - section: "4 Remote Sensing Processing"
+        contents:          
+        - text: 4.1 Imagery Visulization
+          href: DEMO3-1.ipynb
+        - text: 4.2 Geospatial Coordinate Conversion
+          href: DEMO3-2.ipynb        
+        - text: 4.3 DEM Analysis
+          href: DEMO3-3.ipynb     
+      - section: "5 Machine Learning Application"
+        contents:     
+        - text: 5.1 Handwritten Digit Recognition
+          href: DEMO4-1.ipynb      
+        - text: 5.2 Kimi ChatBot
+          href: DEMO4-2.ipynb
+      - section: "6 Interactive Maps Generation"
+        contents:      
+        - text: 6.1 Generation a Map
+          href: DEMO5-1.ipynb     
+        - text: 6.2 Geospatial File Viewer
+          href: DEMO5-2.ipynb  
+      - section: "7 Deploy and Share"
+        contents:       
+        - text: 7.1 Share Your App
+          href: DEMO6-1.ipynb     
+      - section: "References"
+        contents:       
+        - text: References
+          href: references.qmd
+      - text: <img width=120px>
+      - text: <img src="/web_file/gimeo.png" width=120px>
+
+  navbar:
+    background: primary
+    search: true
+    right:
+      - icon: envelope
+        href: jason.yu.mail@qq.com
+        text: "Email"
+      - icon: github
+        href: https://github.com/JunchuanYu/Building_Interactive_Web_APP_with_Gradio
+        text: "Github"
+      - icon: wechat
+        href: https://github.com/JunchuanYu/Building_Interactive_Web_APP_with_Gradio/issues/new
+        text: "Issue"
+      - icon: globe
+        href: https://junchuanyu.netlify.app/
+        text: "Blog"
+
+
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, web_file/theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: web_file/styles.css
+    toc: true
+    toc-depth: 2
+    # include-before-body: translate.html
+
+filters:
+  - web_file/include-files.lua
+  - quarto
+
+# comments:
+#   giscus:
+#     repo: Building_Interactive_Web_APP_with_Gradio
