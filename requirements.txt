@@ -1,0 +1,11 @@
+pillow==9.2.0
+pandas==1.5.0
+gdal==3.4.3
+numpy==1.23.3
+geopandas==0.11.1
+shapely==1.8.4
+scikit-learn==1.1.2
+joblib==1.2.0
+openai==1.16.2
+leafmap==0.29.1
+gradio==4.27.0
