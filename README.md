@@ -10,6 +10,9 @@ The course will also cover processing remote sensing data with Gradio and GDAL f
 
 Designed to equip you with the skills to integrate machine learning models and deploy your apps on Hugging Face Spaces, the course includes practical examples, demos, and assignments. By completing the tutorial, you'll be able to build, deploy, and share interactive web applications confidently and efficiently.
 
+**If you find this course helpful, please give it a ⭐**, Thank you!
+
+
 ![intro](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/intro.gif)
 <br><br>
 
