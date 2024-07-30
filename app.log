@@ -1,0 +1,23 @@
+2024-07-30 23:52:50,111:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\bfcd602a331df9c3d7fdd171681c5a5797ce2fea\DEM.tif
+2024-07-30 23:52:56,251:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-30 23:52:56,368:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-30 23:54:19,220:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-30 23:54:19,360:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:00:31,393:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:00:31,529:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:02:09,040:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:02:09,158:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:03:01,174:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:03:01,276:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:04:52,831:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:04:52,986:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:08:15,132:INFO:File uploaded: C:\Users\Administrator\AppData\Local\Temp\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:08:15,314:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:09:16,659:INFO:File uploaded: C:\Users\Administrator\AppData\Local\Temp\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:09:16,759:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:10:18,102:INFO:File uploaded: C:\Users\Administrator\AppData\Local\Temp\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:10:18,209:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:30:49,441:INFO:File uploaded: C:\Users\Administrator\AppData\Local\Temp\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:30:49,543:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
+2024-07-31 00:38:16,513:INFO:File uploaded: C:\Users\ADMINI~1\AppData\Local\Temp\gradio\36e579d35142bccbcc2986d197105e2ea2b4443b\classification.tif
+2024-07-31 00:38:16,626:INFO:File info: {'image shape': (837, 651, 4), 'max value': 2999, 'UTM zone': 51, 'Projection': 'WGS 84 / UTM Zone 51'}
