@@ -43,9 +43,9 @@ website:
         contents:          
         - text: 4.1 Imagery Visulization
           href: DEMO3-1.ipynb
-        - text: 4.2 Geospatial Coordinate Conversion
+        - text: 4.2 DEM Analysis
           href: DEMO3-2.ipynb        
-        - text: 4.3 DEM Analysis
+        - text: 4.3 Geospatial Coordinate Conversion
           href: DEMO3-3.ipynb     
       - section: "5 Machine Learning Application"
         contents:     
