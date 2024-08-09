@@ -91,13 +91,14 @@ This tutorial is structured into six sections, with each section offering hands-
 ##### DEMO 3-1: Remote Sensing Imagery Visulization
 
 ![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-1.gif)
-##### DEMO 3-2: Geospatial Coordinate Conversion and Shapefile Generator App
 
-![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-2.gif)
+##### DEMO 3-2: DEM Visualization and Slope Analysis App
 
-##### DEMO 3-3: DEM Visualization and Slope Analysis App
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-2_new.gif)
 
-![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-3.gif)
+##### DEMO 3-3: Geospatial Coordinate Conversion and Shapefile Generator App
+
+![](https://dunazo.oss-cn-beijing.aliyuncs.com/blog/demo3-3_new.gif)
 
 #### 4. Application of Machine Learning Models
 ##### DEMO 4-1: Handwritten Digit Recognition App
